@@ -1,0 +1,36 @@
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\bin\Debug\Logica.dll
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\bin\Debug\Logica.pdb
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\bin\Debug\Persistencia.dll
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\obj\Debug\Logica.dll
+C:\Users\matia\OneDrive\Documentos\Visual Studio 2010\Projects\PronosticodelTiempo2\Logica\obj\Debug\Logica.pdb
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\bin\Debug\Logica.dll
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\bin\Debug\Logica.pdb
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\bin\Debug\Persistencia.dll
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\bin\Debug\Persistencia.pdb
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.dll
+C:\Users\matia\Desktop\Proyecto final\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\bin\Debug\Logica.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\bin\Debug\Logica.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\bin\Debug\Persistencia.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\bin\Debug\Persistencia.pdb
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.dll
+C:\Users\matia\OneDrive\Escritorio\Proyecto Prueba\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.pdb
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\bin\Debug\Logica.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\bin\Debug\Logica.pdb
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\bin\Debug\Persistencia.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\bin\Debug\Persistencia.pdb
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion Segundo\Proyecto Final 2021\Proyecto Final PRO 2021\Logica\obj\Debug\Logica.pdb
